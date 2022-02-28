@@ -1,4 +1,4 @@
-module myzone
+module gomyzone
 
 go 1.17
 
